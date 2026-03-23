@@ -13,7 +13,6 @@ An automated reporting system was implemented using Python.
 - A quarterly report is generated automatically
 
 ## Models
-- Linear Regression (customer potential)
 - Ordered Logistic Regression (risk level)
 - Logistic Regression (churn)
 
